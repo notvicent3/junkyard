@@ -1,14 +1,16 @@
 # GPT Researcher Deployment on Kubernetes
 
+[![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)](https://github.com/assafelovic/gpt-researcher)
+
 🚀 Welcome to the guide on how to deploy GPT Researcher using Kubernetes for scalability and efficient resource management.
 
 ## Prerequisites
 
 Before you begin, make sure you have the following:
 
-- A Kubernetes cluster up and running.
-- Docker Compose YAML file for GPT Researcher in your repository.
-- Your OpenAI API Key.
+- A Kubernetes cluster up and running. 🚢
+- Docker Compose YAML file for GPT Researcher in your repository. 🐳
+- Your OpenAI API Key. 🔑
 
 ## Step 1: Create Kubernetes Deployment YAML
 
@@ -86,8 +88,8 @@ spec:
 
 If you used a LoadBalancer type service, it will allocate an external IP address (in a cloud-based Kubernetes cluster) that you can use to access your application. If you used ClusterIP, you can access the application within the cluster.
 
-🎉 Congratulations! Your GPT Researcher application is now running on Kubernetes, ready to empower your research team with AI-driven insights.
+🎉 Congratulations! Your GPT Researcher application is now running on Kubernetes, ready to empower your research team with AI-driven insights. 🤖📈
 
 Ensure that you monitor your application, set resource limits, and configure any additional Kubernetes features or policies as needed for your specific use case.
 
-Happy researching! 📚🔍
+Happy researching! 📚🔍🔬
