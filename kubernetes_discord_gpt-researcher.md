@@ -1,6 +1,6 @@
 # GPT Researcher Deployment on Kubernetes
 
-[![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)](https://github.com/assafelovic/gpt-researcher) Give us a star <3
+[![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)](https://github.com/assafelovic/gpt-researcher) [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)](https://github.com/assafelovic/gpt-researcher)
 
 🚀 Welcome to the guide on how to deploy GPT Researcher using Kubernetes for scalability and efficient resource management.
 
